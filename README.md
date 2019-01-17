@@ -1,1 +1,1 @@
-A simple Tic-Tac-Toe app with single player and multiplayer
+A simple Tic-Tac-Toe app with an unbeatable AI in single player and a two-player multiplayer
